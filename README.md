@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## Currently learning Tailwind CSS and Next JS!!
 
 ![Liberiappi's GitHub stats](https://github-readme-stats.vercel.app/api?username=liberiappi&show_icons=true&theme=radical)
